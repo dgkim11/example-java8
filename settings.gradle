@@ -1,0 +1,3 @@
+rootProject.name = 'example-java8'
+include 'jigsaw'
+
